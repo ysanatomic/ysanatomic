@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yordan (or *Anatomic*).
+- 👋 Hi, I’m *Anatomic*.
 - 👀 I’m interested in Security and Penetration Testing.
 - 💞️ I’m looking to collaborate on whatever... if you have an idea email me.
 - 📫 How to reach me -> over **email** anatomicys@gmail.com.

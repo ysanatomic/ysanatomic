@@ -1,7 +1,8 @@
-- 👋 Hi, I’m *Anatomic*.
-- 👀 I’m interested in Vulnerability Research, Reverse Engineering.
-- 💞️ I’m looking to collaborate on whatever... if you have an idea email me.
-- 📫 How to reach me -> over **email** anatomicys@gmail.com.
+- 👋 Hi, I’m Yordan or Anatomic.
+- ⚙️ I do Vulnerability Research and Security stuff in general.
+- ⚡️ I am especially interested in low-level stuff, kernels, mainly the Linux Kernel.
+- 🌱 Soon might be taking a look at browser vulnerabilities, maybe writing up some old vulns?
+- 📫 Feel free to hit me up on Twitter [@YordanStoychev](https://twitter.com/YordanStoychev)
 
 <!---
 ysanatomic/ysanatomic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

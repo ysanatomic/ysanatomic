@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yordan or Anatomic.
+- 👋 Hi, I’m Yordan (Anatomic).
 - ⚙️ I do Vulnerability Research and Security stuff in general.
 - ⚡️ I am especially interested in low-level stuff, kernels, mainly the Linux Kernel.
 - 🌱 Soon might be taking a look at browser vulnerabilities, maybe writing up some old vulns?
